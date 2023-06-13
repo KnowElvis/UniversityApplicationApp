@@ -158,52 +158,6 @@ class HostelFacility extends StatelessWidget {
                   ]),
               ]),
           ),
-
-            // button
-            Padding(
-              padding: const EdgeInsets.only(left:100),
-              child: Row(
-                children: [
-              Container(
-                padding: const EdgeInsets.all(5),
-              decoration: const BoxDecoration(
-              shape: BoxShape.circle,
-                  color: Colors.grey,
-              ),
-              ),
-                  Container(
-                    padding: const EdgeInsets.all(5),
-                    decoration: const BoxDecoration(
-                      shape: BoxShape.circle,
-                      color: Colors.grey,
-                    ),
-                  ),
-                  Container(
-                    padding: const EdgeInsets.all(5),
-                    decoration: const BoxDecoration(
-                      shape: BoxShape.circle,
-                      color: Colors.grey,
-                    ),
-                  ),
-                  Container(
-                    padding: const EdgeInsets.all(5),
-                    decoration: const BoxDecoration(
-                      shape: BoxShape.circle,
-                      color: Colors.grey,
-                    ),
-                  ),
-                  Container(
-                    padding: const EdgeInsets.all(5),
-                    decoration: const BoxDecoration(
-                      shape: BoxShape.circle,
-                      color: Colors.grey,
-                    ),
-                  ),
-              ]),
-            ),
-            
-            const SizedBox(height:20),
-
             // text
             Padding(
               padding: const EdgeInsets.only(left:30),
