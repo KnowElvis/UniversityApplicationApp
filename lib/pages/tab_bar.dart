@@ -40,7 +40,7 @@ class _CollegeState extends State<College> {
                 labelColor: Colors.black,
                   tabs: [
                 Tab(text: 'About College'),
-                Tab(text: 'Hostel facility'),
+                Tab(text: 'Hostel facilities'),
                 Tab(text: 'Q&A'),
                 Tab(text: 'Events',)
               ]),
